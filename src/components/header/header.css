@@ -1,0 +1,13 @@
+
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #62DC8B;
+    height: 5em;
+}
+
+.title{
+    color: white;
+    margin: 0px;
+}

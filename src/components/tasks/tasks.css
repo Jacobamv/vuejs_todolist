@@ -1,0 +1,34 @@
+.tasks{
+    margin-top: 3em;
+}
+
+.btn1{
+    border: 0px;
+    background-color: white;
+    width: 2em;
+    height: 2em;
+}
+.btn2{
+    border: 0px;
+    background-color: #FFEDED;
+    width: 2em;
+    height: 2em;
+}
+.btn3{
+    border: 0px;
+    background-color: #FFCDCD;
+    width: 2em;
+    height: 2em;
+}
+.btn4{
+    border: 0px;
+    background-color: #FFA1A1;
+    width: 2em;
+    height: 2em;
+}
+.btn5{
+    border: 0px;
+    background-color: #FF0000;
+    width: 2em;
+    height: 2em;
+}
